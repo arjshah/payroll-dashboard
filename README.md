@@ -2,6 +2,11 @@
 
 This project is a React-based Payroll Dashboard that visualizes payroll data through interactive charts using Recharts.
 
+<p align="center">
+  <img src="assets/payroll-report-1.png" alt="Payroll Report 1" width="45%">
+  <img src="assets/payroll-report-2.png" alt="Payroll Report 2" width="45%">
+</p>
+
 ## Prerequisites
 
 Before you begin, ensure you have met the following requirements:
